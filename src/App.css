@@ -6,6 +6,9 @@
   align-items: center;
   background-color: rgb(36, 36, 27);
 }
+.Qus{
+  color: red;
+}
 .quiz_qus{
   color: blueviolet;
   width:80em;

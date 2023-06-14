@@ -30,7 +30,7 @@ function App() {
       {result?(<><h1>{score}</h1>
       <br/><p>
       <button className="replay"onClick={replay}>Play Again</button></p></>):(<div className='quiz_qus'>
-      {present_question.question}
+      <p className='Qus'>{present_question.question}</p>
         <div className='options'>
       <ul className='quiz_ul'>
          { present_question.options.map((option,i) =>
