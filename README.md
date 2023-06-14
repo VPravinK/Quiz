@@ -1,2 +1,2 @@
 # Quiz
-Basic Qus &amp; Ans
+Basic Qus & Ans
